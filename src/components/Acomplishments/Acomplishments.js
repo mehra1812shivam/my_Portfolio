@@ -7,6 +7,7 @@ const data = [
   { number: 20, text: 'Virtual Experience Developer Program by accenture'},
   { number: 1000, text: 'AMCAT Employability Test', },
   { number: 1900, text: 'HPE Certificate of Competency in Android', },
+  { number: 5000, text: 'Cambridge English Language Assessment Cleared', },
   { number: 5000, text: 'Cambridge English Language Assessment Cleared', }
 ];
 
